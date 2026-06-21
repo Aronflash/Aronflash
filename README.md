@@ -21,7 +21,7 @@
         <tr>
           <td>📍</td>
           <td><b>Location</b></td>
-          <td>Peru</td>
+          <td>Táchira, Venezuela</td>
         </tr>
         <tr>
           <td>🎯</td>
@@ -144,7 +144,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/AronFlash/AronFlash/blob/output/github-contribution-grid-snake.svg" />
+  <!-- Corregido a URL 'raw' para que renderice correctamente el SVG de la serpiente -->
+  <img src="https://raw.githubusercontent.com/AronFlash/AronFlash/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br>
