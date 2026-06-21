@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Aron%20Flash&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=450&height=40&lines=Systems+Engineer;Full-Stack+Developer;Technology+Architect" />
 </p>
 
