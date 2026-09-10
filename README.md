@@ -1,206 +1,202 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Aron%20Flash&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00b4d8&height=220&section=header&text=Aron%20Flash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Software%20Architect&descFontSize=20&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=450&height=40&lines=Systems+Engineer;Full-Stack+Developer;Technology+Architect" />
+<p align="center">
+  <a href="https://github.com/AronFlash">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=550&height=45&lines=%F0%9F%9A%80+Architecting+Scalable+Web+Solutions;%F0%9F%92%BB+Full-Stack+Web+%26+Backend+Specialist;%E2%9A%A1+Clean+Code+%26+Modern+Architecture;%F0%9F%8C%90+Continuous+Learning+%26+Innovation" alt="Typing SVG" />
+  </a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-00F5D4?style=for-the-badge&logo=statuspage&logoColor=0d1117" alt="Status"/>
+  <img src="https://img.shields.io/badge/Experience-Full--Stack%20Architecture-00B4D8?style=for-the-badge&logo=codewars&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Location-T%C3%A1chira%2C%20Venezuela-7928CA?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+</p>
 
-<table align="center" width="100%" cellpadding="20">
+<br/>
+
+<!-- ============================================ -->
+<!-- ABOUT ME SECTION -->
+<!-- ============================================ -->
+
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUwnDmnsx23AO093/giphy.gif" width="100%" style="max-width: 420px; border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 180, 216, 0.2);" alt="Coding Animation"/>
     </td>
-    <td width="60%" valign="middle">
-      <h2>About Me</h2>
-      <p>Systems Engineer specialized in full-stack development and software architecture. Focused on building scalable, efficient solutions with clean code principles.</p>
-      <br>
-      <table>
-        <tr>
-          <td>📍</td>
-          <td><b>Location</b></td>
-          <td>Táchira, Venezuela</td>
-        </tr>
-        <tr>
-          <td>🎯</td>
-          <td><b>Focus</b></td>
-          <td>Web Development</td>
-        </tr>
-        <tr>
-          <td>📚</td>
-          <td><b>Learning</b></td>
-          <td>Cloud Architecture</td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" />
+        <b>About Me</b>
+      </h3>
+      <p>
+        I am a <b>Systems Engineer</b> passionate about crafting high-performance, resilient, and visually engaging web applications. My philosophy centers on <b>Clean Architecture</b>, scalable design patterns, and maintainable systems.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently Building:</b> Robust Full-Stack ecosystems & modern APIs.</li>
+        <li>💡 <b>Core Focus:</b> React, Node.js, Clean Code & Cloud-native solutions.</li>
+        <li>🌱 <b>Expanding into:</b> Advanced Cloud Architecture & Microservices.</li>
+        <li>💬 <b>Ask me about:</b> Architecture design, Database optimization & Web tech.</li>
+      </ul>
+      <p align="left">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" alt="Tech Quote"/>
+      </p>
     </td>
   </tr>
 </table>
 
-<br>
+<br/>
 
----
+<!-- ============================================ -->
+<!-- TECH STACK & TOOLS -->
+<!-- ============================================ -->
 
-<h2 align="center">Technical Skills</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=40&section=header&text=Tech%20Stack%20%26%20Arsenal&fontSize=22&fontColor=00F5D4" width="100%"/>
+</p>
 
-<br>
+<div align="center">
+  <p><b>Languages & Core</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python&theme=dark" alt="Languages"/>
+  </a>
+  <br/><br/>
+
+  <p><b>Frontend & UI Frameworks</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma&theme=dark" alt="Frontend"/>
+  </a>
+  <br/><br/>
+
+  <p><b>Backend & Databases</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,prisma&theme=dark" alt="Backend and DB"/>
+  </a>
+  <br/><br/>
+
+  <p><b>DevOps, Tools & Infrastructure</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&theme=dark" alt="DevOps and Tools"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- ============================================ -->
+<!-- GITHUB TROPHIES & ACHIEVEMENTS -->
+<!-- ============================================ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=40&section=header&text=GitHub%20Trophies&fontSize=22&fontColor=00B4D8" width="100%"/>
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AronFlash&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- ============================================ -->
+<!-- GITHUB PERFORMANCE & STATS -->
+<!-- ============================================ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=40&section=header&text=Performance%20%26%20Metrics&fontSize=22&fontColor=00F5D4" width="100%"/>
+</p>
 
 <table align="center" width="100%">
   <tr>
-    <td width="20%" align="center">
-      <h3>Frontend</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
-      </p>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AronFlash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00B4D8&text_color=FFFFFF&include_all_commits=true&count_private=true&borderRadius=10" width="100%" alt="GitHub Stats" />
     </td>
-    <td width="20%" align="center">
-      <h3>Backend</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
-      </p>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AronFlash&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=00B4D8&fire=00F5D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5D4&sideLabels=00B4D8&dates=8B949E&border_radius=10" width="100%" alt="Streak Stats" />
     </td>
-    <td width="20%" align="center">
-      <h3>Database</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-      </p>
-    </td>
-    <td width="20%" align="center">
-      <h3>DevOps</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-      </p>
-    </td>
-    <td width="20%" align="center">
-      <h3>Tools</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" /><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="40" /><br>
-        <img src="https://w7.pngwing.com/pngs/134/214/png-transparent-make-web-logo.png" width="40" />
-      </p>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronFlash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=FFFFFF&borderRadius=10" width="60%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<br>
+<br/>
 
----
-
-<h2 align="center">GitHub Performance</h2>
-
-<br>
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=AronFlash&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AronFlash&theme=github-dark&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=FFFFFF" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronFlash&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" />
-</div>
-
-<br>
-
----
-
-<h2 align="center">Activity Overview</h2>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AronFlash&theme=github-dark&bg_color=0D1117&hide_border=true&area=true&color=00B4D8&line=00B4D8&point=FFFFFF" />
-</div>
-
-<br>
-
----
-
-<h2 align="center">Contributions</h2>
-
-<br>
-
-<div align="center">
-  <!-- Corregido a URL 'raw' para que renderice correctamente el SVG de la serpiente -->
-  <img src="https://raw.githubusercontent.com/AronFlash/AronFlash/output/github-contribution-grid-snake.svg" />
-</div>
-
-<br>
-
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AronFlash&theme=github_dark" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AronFlash&theme=github_dark" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AronFlash&theme=github_dark" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
----
-
-<h2 align="center">Professional Network</h2>
-
-<br>
+<!-- ============================================ -->
+<!-- ACTIVITY OVERVIEW -->
+<!-- ============================================ -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aronflash/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=40&section=header&text=Activity%20Overview&fontSize=22&fontColor=00B4D8" width="100%"/>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AronFlash&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F5D4&line=00B4D8&point=FFFFFF" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- ============================================ -->
+<!-- CONTRIBUTION SNAKE EATER -->
+<!-- ============================================ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=40&section=header&text=%F0%9F%90%8D%20Snake%20Contribution%20Game&fontSize=22&fontColor=00F5D4" width="100%"/>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AronFlash/AronFlash/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AronFlash/AronFlash/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AronFlash/AronFlash/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ============================================ -->
+<!-- CONNECT WITH ME -->
+<!-- ============================================ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=40&section=header&text=Connect%20With%20Me&fontSize=22&fontColor=00F5D4" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aronflash/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/aronflash">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  &nbsp;
+  <a href="https://twitter.com/aronflash" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
+  &nbsp;
   <a href="mailto:aron.flash@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/AronFlash">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/AronFlash" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AronFlash&color=00B4D8&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/AronFlash?style=social" />
-  <img src="https://img.shields.io/github/stars/AronFlash?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=AronFlash&color=00F5D4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/AronFlash?style=social" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/AronFlash?style=social" alt="Stars" />
 </div>
 
+<br/>
+
+<!-- ============================================ -->
+<!-- FOOTER -->
+<!-- ============================================ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 </p>
